@@ -1,9 +1,7 @@
 echo "enter username"
 read username
-clear
 echo "enter password"
 read password
-clear
 echo "enter groupname"
 read groupname
 groupadd $groupname
